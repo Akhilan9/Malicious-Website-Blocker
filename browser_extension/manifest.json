@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Malicious Blocker (Companion)",
+    "version": "1.0",
+    "description": "Companion extension that checks URLs against the local Python scanner.",
+    "permissions": [
+        "webNavigation",
+        "notifications"
+    ],
+    "host_permissions": [
+        "<all_urls>",
+        "http://localhost:8000/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

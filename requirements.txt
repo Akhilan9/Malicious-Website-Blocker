@@ -1,0 +1,8 @@
+requests
+python-dotenv
+Pillow
+customtkinter
+scikit-learn
+numpy
+pandas
+google-genai

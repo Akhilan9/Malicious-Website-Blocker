@@ -1,0 +1,23 @@
+{
+    "Adult": [
+        "pornhub.com",
+        "xvideos.com",
+        "xnxx.com"
+    ],
+    "Social Media": [
+        "facebook.com",
+        "twitter.com",
+        "instagram.com",
+        "tiktok.com"
+    ],
+    "Gambling": [
+        "bet365.com",
+        "draftkings.com",
+        "betway.com"
+    ],
+    "Known Malware (Demo)": [
+        "malicious.com",
+        "badsite.com",
+        "phishing-example.com"
+    ]
+}
